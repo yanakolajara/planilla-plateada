@@ -1,34 +1,18 @@
 [
   {
-    "value": "avocado",
-    "image": "avocado.png"
+    "value": "estrella",
+    "image": "estrella.jpg"
   },
   {
-    "value": "orange",
-    "image": "orange.png"
+    "value": "escudo",
+    "image": "escudo.jpg"
   },
   {
-    "value": "tomato",
-    "image": "tomato.png"
+    "value": "vota.jpg",
+    "image": "vota.jpg"
   },
   {
-    "value": "grape",
-    "image": "grape.png"
-  },
-  {
-    "value": "lemon",
-    "image": "lemon.png"
-  },
-  {
-    "value": "bananas",
-    "image": "bananas.png"
-  },
-  {
-    "value": "apple",
-    "image": "apple.png"
-  },
-  {
-    "value": "pineapple",
-    "image": "pineapple.png"
+    "value": "calendario",
+    "image": "calendario.jpg"
   }
 ]
