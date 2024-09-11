@@ -1,0 +1,16 @@
+@import './styles/main.scss';
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+
+  body {
+    margin: 0;
+  }
+}
+
+.App {
+  display: grid;
+
+  min-height: 100vh;
+}

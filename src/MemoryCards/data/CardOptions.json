@@ -1,0 +1,34 @@
+[
+  {
+    "value": "avocado",
+    "image": "avocado.png"
+  },
+  {
+    "value": "orange",
+    "image": "orange.png"
+  },
+  {
+    "value": "tomato",
+    "image": "tomato.png"
+  },
+  {
+    "value": "grape",
+    "image": "grape.png"
+  },
+  {
+    "value": "lemon",
+    "image": "lemon.png"
+  },
+  {
+    "value": "bananas",
+    "image": "bananas.png"
+  },
+  {
+    "value": "apple",
+    "image": "apple.png"
+  },
+  {
+    "value": "pineapple",
+    "image": "pineapple.png"
+  }
+]
